@@ -83,7 +83,7 @@ definitions:
       deteledAt:
         type: string
       id:
-        type: integer
+        type: string
       link:
         type: string
       location:
