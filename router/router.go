@@ -7,5 +7,5 @@ func Initialize() {
 
 	initializeroutes(router)
 
-	router.Run("127.0.0.1:8080")
+	router.Run(":8080")
 }
